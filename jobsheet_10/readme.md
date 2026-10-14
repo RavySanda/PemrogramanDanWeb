@@ -1,0 +1,1 @@
+psql -d simpus_mini -f sql/02_users.sql
